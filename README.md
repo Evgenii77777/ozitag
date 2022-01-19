@@ -6,4 +6,4 @@
 
 ## npm start
 
-(ооткрытие страницы на http://localhost:4040/)
+(открытие страницы на http://localhost:4040/)
